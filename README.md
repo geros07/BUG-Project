@@ -20,6 +20,15 @@
 
 ---
 
+## 🚀 SCRIPT:
+
+To run the script, copy and paste the code below into your executor:
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/geros07/BUG-Project/refs/heads/main/BUGAIMLOCKPRO.lua"))()
+
+---
+
 ## 📌 INSTRUCTIONS
 
 1. Launch your game with the script activated.
