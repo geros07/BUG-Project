@@ -29,6 +29,14 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/geros07/BUG-Project/r
 ```
 ---
 
+## 🛒 Game Pass: BUG AimLock PRO Whitelist
+
+Get exclusive access to the **BUG AimLock PRO** by purchasing the Game Pass on Roblox. Whitelist included!
+
+👉 [Click here to access on Roblox](https://www.roblox.com/game-pass/1227177069/BUG-AimLock-PRO-Whitelist)
+
+---
+
 ## 📌 INSTRUCTIONS
 
 1. Launch your game with the script activated.
