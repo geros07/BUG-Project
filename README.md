@@ -14,7 +14,7 @@
 | 🎯 **Switch Torso/Head Target**| `Home` or `Shift + E`                  |
 | 🔫 **Click to AimLock**        | `Left Mouse Button`                    |
 | 🔁 **Switch AimLock Mouse Button**| `F2` (Toggle Left ↔ Right)          |
-| ✨ **Enable HighLight With Health Bar ESP**    | `Delete`                               |
+| ✨ **Enable HighLight with Health Bar ESP**    | `Delete`                               |
 | 🏷️ **Enable NameTags ESP**    | `Shift + P`                             |
 | 🔍 **Adjust FOV**              | `PageUp` (90 - High) / `PageDown` (75 - Default) |
 
