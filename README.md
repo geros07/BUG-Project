@@ -67,3 +67,10 @@ Use responsibly and at your own risk.
 ### 👾 Stay Updated!
 
 ⭐ Star this repository and follow for future updates and improvements to version `v15.2`!
+
+---
+## Private Repo:
+
+[Github Private Repository](https://github.com/geros07/BALP-PRIVATE-REPO)
+
+---
