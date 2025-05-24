@@ -1,6 +1,6 @@
 # 🎯 BUG AIMLOCK PRO SCRIPT 🔥
 
-> ⚠️ **Script Version:** `v15.1`  
+> ⚠️ **Script Version:** `v15.2`  
 > Optimized for precision, responsiveness, and enhanced performance. Below are all keybinds and usage instructions for full control.
 
 ---
@@ -66,7 +66,7 @@ Use responsibly and at your own risk.
 
 ### 👾 Stay Updated!
 
-⭐ Star this repository and follow for future updates and improvements to version `v15.2`!
+⭐ Star this repository and follow for future updates and improvements to version `v15.3`!
 
 ---
 ## Private Repo:
